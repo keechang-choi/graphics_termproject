@@ -1,6 +1,23 @@
 # graphics_termproject
 
-## install
+## Intro
+3D Running game with head tracking
+
+Unity, C# script
+OpenCV, C++ for building DLL
+
+- Web cam detects user's head position
+- Head position determines camera position and direction in the game
+- User control left and right turn at the corner by head position
+## Result
+![image](https://user-images.githubusercontent.com/49244613/123129541-fb320e80-d486-11eb-9cea-39d048860391.png)
+
+![image](https://user-images.githubusercontent.com/49244613/123129311-d3db4180-d486-11eb-900d-3985328157e1.png)
+
+
+
+## Dev install
+OpenCV functions built to DLL file to import in C#
 
 need opencv lib  ( built for windows10 64bit )
 > https://drive.google.com/file/d/16mYwkPFpR6qylUwowlw_6BQsPEGka9ON/view?usp=sharing
