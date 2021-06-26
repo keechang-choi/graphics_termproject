@@ -10,7 +10,7 @@ OpenCV, C++ for building DLL
 - Head position determines camera position and direction in the game
 - User control left and right turn at the corner by head position
 ## Result
-![image](https://user-images.githubusercontent.com/49244613/123129541-fb320e80-d486-11eb-9cea-39d048860391.png)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/49244613/123520971-a7296300-d6ee-11eb-88ed-f1f40d0eba75.gif)
 
 ![image](https://user-images.githubusercontent.com/49244613/123129311-d3db4180-d486-11eb-900d-3985328157e1.png)
 
